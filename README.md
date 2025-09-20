@@ -103,8 +103,8 @@ The frontend will run on `http://localhost:3000` and communicate with the backen
 
 ## Deployment
 
-- Backend can be deployed on Heroku (Python/Flask).
-- Frontend can be deployed on Vercel or Netlify.
+- Backend is deployed on Render (Python/Flask) - https://sentimentanalysis-nlp.onrender.com/
+- Frontend is deployed on Vercel - https://sentimentanalysis-nlp.onrender.com/
 
 ## Contributing
 
