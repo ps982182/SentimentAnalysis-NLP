@@ -104,7 +104,7 @@ The frontend will run on `http://localhost:3000` and communicate with the backen
 ## Deployment
 
 - Backend is deployed on Render (Python/Flask) - https://sentimentanalysis-nlp.onrender.com/
-- Frontend is deployed on Vercel - https://sentimentanalysis-nlp.onrender.com/
+- Frontend is deployed on Vercel - https://sentiment-analysis-nlp-seven.vercel.app/
 
 ## Contributing
 
