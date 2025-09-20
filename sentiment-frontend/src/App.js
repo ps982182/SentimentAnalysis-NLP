@@ -40,7 +40,7 @@ function App() {
   const handleSubmit = async () => {
     if (!text.trim()) return;
     try {
-      const res = await axios.post("http://127.0.0.1:5000/predict", { text });
+      const res = await axios.post("https://sentimentanalysis-nlp.onrender.com/predict", { text });
       setResult(res.data.sentiment);
       setHistory((prev) => [...prev, { text, sentiment: res.data.sentiment }]);
     } catch (error) {
