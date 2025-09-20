@@ -15,20 +15,27 @@ A web application that analyzes the sentiment of tweets in real-time using state
 
 
 ## Features
+- Analyze tweet text for positive or negative sentiment using optimized TF-IDF vectorization combined with classical machine learning models (Logistic Regression, Random Forest, SVM).
 
-- Analyze tweet text for positive or negative sentiment using a transformer (BERT) model.
-- History table of analysed tweets with sentiment labels.
+- History table of analyzed tweets with sentiment labels.
+
 - Interactive pie, bar, and line charts to visualize sentiment distribution and trends.
+
 - Responsive, user-friendly React frontend with Bootstrap styling.
-- Flask backend serving the sentiment model with Hugging Face Transformers.
-- Easy to deploy on free cloud platforms like Heroku (backend) and Vercel/Netlify (frontend).
+
+- Flask backend serving the trained machine learning model.
+
+- Easy to deploy on popular cloud platforms like Render (backend) and Vercel (frontend).
 
 ## Technologies Used
-
 - Python, Flask, Flask-CORS
-- Hugging Face Transformers (DistilBERT)
+
+- Scikit-learn for TF-IDF vectorization and machine learning models
+
 - React.js, react-chartjs-2, Chart.js
+
 - Bootstrap 5
+
 - Axios (for API communication)
 
 ## Getting Started
