@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-A web application that analyzes the sentiment of tweets in real-time using state-of-the-art BERT-based models and provides interactive visualizations.
+A Full-Stack Web App with TF-IDF and ML Models for Real-Time Insights
 
 <img width="1916" height="959" alt="Screenshot 2025-09-16 000955" src="https://github.com/user-attachments/assets/9db423bd-e1aa-4c9a-89d1-3e9b3eb0f3a7" />
 
