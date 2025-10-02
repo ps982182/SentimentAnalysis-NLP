@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-A Full-Stack Web App with TF-IDF and ML Models for Real-Time Insights
+A full-stack Twitter sentiment analysis application that uses optimized TF-IDF vectorization combined with classical machine learning models—Logistic Regression, Random Forest, and SVM—served via a Flask backend and featuring a responsive React.js frontend for real-time sentiment insights.
 
 <img width="1916" height="959" alt="Screenshot 2025-09-16 000955" src="https://github.com/user-attachments/assets/9db423bd-e1aa-4c9a-89d1-3e9b3eb0f3a7" />
 
